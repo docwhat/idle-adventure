@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://bg50502uiq457"]
+
+[node name="Player" type="Area2D"]
